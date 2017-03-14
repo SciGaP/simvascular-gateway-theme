@@ -45,7 +45,7 @@
 
           <h6 class="media-heading"><a href="https://simtk.org/tracker/?group_id=188">Suggest new features or report bugs</a></h6>
           Help us to improve SimVascular.<br><br>  
-          <h6 class="media-heading"><a href="http://benefunder.org/causes/186/alison-marsden">Make a Donation</a></h6>
+          <h6 class="media-heading"><a href="https://benefunder.org/causes/186/alison-marsden">Make a Donation</a></h6>
           Support our Research.<br><br>  
                       
         </div>
