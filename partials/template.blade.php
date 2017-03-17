@@ -35,7 +35,7 @@
           <!-- Description -->
           <div class="media">
             <a class="pull-left">
-              <img class="media-object" width="60" src="http://simvascular.github.io/img/Img_About_Coro.png" alt="...">
+              <img class="media-object" width="60" src="https://simvascular.github.io/img/Img_About_Coro.png" alt="...">
             </a>
             <div class="media-body">
               <h4 class="media-heading">Description</h4>
@@ -45,7 +45,7 @@
           <!-- Origins -->
           <div class="media">
             <a class="pull-left">
-              <img class="media-object" width="55" src="http://simvascular.github.io/img/Img_About_Femoral.png" alt="...">
+              <img class="media-object" width="55" src="https://simvascular.github.io/img/Img_About_Femoral.png" alt="...">
             </a>
             <div class="media-body">
               <h4 class="media-heading">Origins</h4>
@@ -55,7 +55,7 @@
           <!-- Purpose/Synopsis -->
           <div class="media">
             <a class="pull-left">
-              <img class="media-object" src="http://simvascular.github.io/img/Img_About_CHD.png" alt="...">
+              <img class="media-object" src="https://simvascular.github.io/img/Img_About_CHD.png" alt="...">
             </a>
             <div class="media-body">
               <h4 class="media-heading">Purpose</h4>
@@ -65,7 +65,7 @@
           <!-- Audience -->
           <div class="media">
             <a class="pull-left">
-              <img class="media-object" src="http://simvascular.github.io/img/Img_About_Pulm.png" alt="...">
+              <img class="media-object" src="https://simvascular.github.io/img/Img_About_Pulm.png" alt="...">
             </a>
             <div class="media-body">
               <h4 class="media-heading">Audience</h4>
@@ -75,7 +75,7 @@
           <!-- Broader Uses -->
           <div class="media">
             <a class="pull-left">
-              <img class="media-object" src="http://simvascular.github.io/img/Img_About_Aorta.png" alt="...">
+              <img class="media-object" src="https://simvascular.github.io/img/Img_About_Aorta.png" alt="...">
             </a>
 
             <div class="media-body">
@@ -92,7 +92,7 @@
           <!-- DESCRIPTION -->
           <div class="media">
             <a class="pull-left">
-              <img class="media-object" src="http://simvascular.github.io/img/Img_About_Coro.png" alt="...">
+              <img class="media-object" src="https://simvascular.github.io/img/Img_About_Coro.png" alt="...">
             </a>
             <div class="media-body">
               <h4 class="media-heading">New features in SimVascular 2.0</h4>
