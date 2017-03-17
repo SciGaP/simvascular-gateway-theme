@@ -1,6 +1,6 @@
 <hr/>
 
-<div class="col-md-offset-2 col-md-8 text-center">
+<div class="col-md-offset-2 col-md-5">
         <h2>Contact us</h2>
         <h4>We are very interested in your feedback and comments.</h4>
 
@@ -48,5 +48,9 @@
           <h6 class="media-heading"><a href="http://benefunder.org/causes/186/alison-marsden">Make a Donation</a></h6>
           Support our Research.<br><br>  
                       
-        </div>
-      </div>
+  </div>
+</div>
+
+<div class="col-md-3">
+  <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/powered-by-airavata-transparent.png"/>
+</div>

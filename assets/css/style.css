@@ -2,7 +2,7 @@ body{
 	background: #fff !important;
 }
 
-.gsu-background-color{
+.simvascular-background-color{
     background: #3967b7;
 }
 
@@ -29,11 +29,11 @@ body{
     margin-top: 100px;
 }
 
-.ts-logo img{
-    width: 100px;
+.simvascular-logo img{
+    width: 200px;
 }
 
-.ts-links{
+.sumvascular-links{
     font-size:1.2em;
     margin-top:20px;
 }
@@ -151,10 +151,10 @@ body{
     font-size:1.5em;
 }
 
-.ts-footer{
+.simvascular-footer{
     padding: 20px;
 }
 
-.ts-footer a{
+.simvascular-footer a{
     color: #dfdfdf;
 }
