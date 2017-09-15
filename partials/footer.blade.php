@@ -2,7 +2,7 @@
 
 <div class="col-md-offset-2 col-md-5">
         <h2>Contact us</h2>
-        <h4>We are very interested in your feedback and comments.</h4>
+        <!-- <h4>We are very interested in your feedback and comments.</h4> -->
 
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
