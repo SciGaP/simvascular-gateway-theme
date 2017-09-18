@@ -9,10 +9,9 @@
 <!--           <h6 class="media-heading"><a>News Mailing List</a></h6>
           <h6 class="media-heading"><a href="https://simtk.org/mailman/listinfo/simvascular-news">Sign up</a> - <a href="https://simtk.org/pipermail/simvascular-news/">Archive</a></h6>
           Announcements and latest news about SimVascular.<br><br> -->
-          <h6 class="media-heading"><a>Users Mailing List</a></h6>
-          <h6 class="media-heading"><a href="https://simtk.org/mailman/listinfo/simvascular-users">Sign up</a> - <a href="https://simtk.org/pipermail/simvascular-users/">Archive</a></h6>
+          <h6>SimVascular News Mailing List: <class="media-heading"><a href="https://simtk.org/mailman/listinfo/simvascular-news">Sign up</a> - <a href="https://simtk.org/pipermail/simvascular-news/">Archive</a></h6>
           <h6 class="media-heading"><a href="https://simtk.org/forums/viewforum.php?f=188">SimVascular Public Forum</a></h6>
-          Interact with other SimVascular users.<br><br>
+          <!-- Interact with other SimVascular users.<br><br> -->
           
           <!-- CONTANT FORM - OLD
           <form id="contact-us" class="form-horizontal" role="form" method="post" action="php/sendMail.php">
@@ -44,11 +43,11 @@
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
           <h6 class="media-heading"><a href="https://simtk.org/tracker/?group_id=188">Suggest new features or report bugs</a></h6>
-          Help us to improve SimVascular.<br><br>  
-          <h6 class="media-heading"><a href="https://benefunder.org/causes/186/alison-marsden">Make a Donation</a></h6>
-          Support our Research.<br><br>  
+          <!-- Help us to improve SimVascular.<br><br>   -->
+          <h6 class="media-heading"><a href="http://benefunder.org/causes/186/alison-marsden">Make a Donation</a></h6>
+          <!-- Support our Research.<br><br>   -->
                       
-  </div>
+        </div>
 </div>
 
 <div class="col-md-3">
