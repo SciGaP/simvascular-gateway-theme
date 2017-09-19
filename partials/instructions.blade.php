@@ -58,8 +58,7 @@
               2. Give a name and click "Continue".
               <br>
               3. Click the corresponding buttons "Choose File" to upload required files for simulation, such as geombc.dat.1, restart.0.1, bct.dat, solver.inp, numstart.dat. For certain complicated simulation, extra files can be uploaded as optional input files.
-              <p style="margin-left: 20px">For a small simulatio job: choose queue "shared", 1 node, 1~23 cores.</p>
-              <br>
+              <p style="margin-left: 20px">To create those input/data files from SimVascular: in SimVascular, after a job is set up, right click the job node in Data Manager and click "Export Data Files". Then, all files will be exported to a specified folder.</p>
               4. Specify compute resource.
               <br>
               5. Select a queue, specify the number of nodes and cores. ATTENTION: Our computer cluster has a limited number of nodes. Each node has 24 cores. Please choose appropriate queue, node and core numbers for your simulation job.
@@ -70,12 +69,19 @@
               <br>
               7. Click "Save and launch" to launch the simulation job. Attention: if all the nodes are occupied by other users, your job will be in the waiting queue until the number of nodes you request become available.
               <br>
-              8. Gateway then shows a webpage about the status of the current experiment. Once the "Experiment Status" becomes "COMPLETED", files are available in "Outputs", You can download proc-xx.czf.tar.gz which contains all simulation results.You can also click "Open" in "Storage Directory" to get a list of all input and output files and download specific files.
+              8. Gateway then shows a webpage about the status of the current experiment.
               <br>
               9. You can also browse an existing exepriment and click "Clone" to create a new experiment with the same parameters.
             </div>
           </div>
 
+          <!-- Download -->
+          <div class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Download Results</h4>
+              Once the experiment is completed ("Status" becomes "COMPLETED"), go to the experiment summary page, files are available in "Outputs", and you can download proc-xx.czf.tar.gz which contains all simulation results.You can also click "Open" in "Storage Directory" to get a list of all input and output files and download specific files.
+            </div>
+          </div>
 
     </div>
   </div>  
