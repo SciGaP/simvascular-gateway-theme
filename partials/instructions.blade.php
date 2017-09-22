@@ -1,11 +1,11 @@
 <div class="container">
   <div class="content">
-    <div class="text-center">
-      <h2 class="title top-space">Instructions</h2>       
+    <div class="text-left">
+      <h1 class="title top-space">Instructions</h1>
 
           <div class="media">
             <div class="media-body">
-              <!-- <h4 class="media-heading">Description</h4> -->
+              <!-- <h2 class="media-heading">Description</h2> -->
               The instructions here guide users to create new accounts, create simualtion jobs, upload input/data files, run simualtion and download simulation results. 
             </div>
           </div>
@@ -13,7 +13,7 @@
           <!-- Creaat Account -->
           <div class="media">
             <div class="media-body">
-              <h4 class="media-heading">Creat Account</h4>
+              <h2 class="media-heading">Creat Account</h2>
               If you are a college student, or work in a research institute, please use "Sign in with CILogon". In this option, under "Select An Identity Provider", find your institute, then click "Log On" and sign in with your institute ID and password.
               <br>
               <br>
@@ -26,7 +26,7 @@
           <!-- Log in -->
           <div class="media">
             <div class="media-body">
-              <h4 class="media-heading">Log In</h4>
+              <h2 class="media-heading">Log In</h2>
               Based on the way you created your account, choose the corresponding way to log in.
             </div>
           </div>
@@ -34,7 +34,7 @@
           <!-- Create Project -->
           <div class="media">
             <div class="media-body">
-              <h4 class="media-heading">Create/Browse Projects</h4>
+              <h2 class="media-heading">Create/Browse Projects</h2>
               It's not required to create a new project. By default, "Default Poject" is already created for you. In one project, you can create multiple exeperiments (i.e. simulation jobs). 
               <br>
               <br>
@@ -47,7 +47,7 @@
           <!-- Create Experiments -->
           <div class="media">
             <div class="media-body">
-              <h4 class="media-heading">Create/Browse Experiments (Simulation Jobs)</h4>
+              <h2 class="media-heading">Create/Browse Experiments (Simulation Jobs)</h2>
               To browse existing experiments: click "Experiment" -> "Browse" at the upper-left corner.
               <br>
               <br>
@@ -78,7 +78,7 @@
           <!-- Download -->
           <div class="media">
             <div class="media-body">
-              <h4 class="media-heading">Download Results</h4>
+              <h2 class="media-heading">Download Results</h2>
               Once the experiment is completed ("Status" becomes "COMPLETED"), go to the experiment summary page, files are available in "Outputs", and you can download proc-xx.czf.tar.gz which contains all simulation results.You can also click "Open" in "Storage Directory" to get a list of all input and output files and download specific files.
             </div>
           </div>
