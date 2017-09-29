@@ -19,7 +19,7 @@
             <li><a class="scroll hidden" href="#home"></a></li>
  <!--            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li> -->
 <!--             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/events") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/events">Events</a></li> -->
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/instructions") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/events">Instructions</a></li>            
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/instructions") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/instructions">Instructions</a></li>            
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/news") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/news">News</a></li>
 <!--             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/contact">Contact</a></li> -->
           </ul>
