@@ -18,6 +18,7 @@
 	<div class="row">
 	<div class="col-md-offset-4 col-md-8">
     			<h1 ><a href="https://django.simvascular.scigap.org/">New Django Portal</a></h1>
+    </div>
 		<div class="col-md-offset-2 col-md-8">
 			<h1 >SimVascular Supercomputing Gateway</h1>
 <!-- 			<p style="color:#cccccc;">
