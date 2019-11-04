@@ -19,7 +19,8 @@
 	<div class="col-md-offset-4 col-md-8">
     			<h1 ><a href="https://django.simvascular.scigap.org/">New Django Portal</a></h1>
     </div>
-		<div class="col-md-offset-2 col-md-8">
+    <br></br>
+		<div class="col-md-offset-3 col-md-8">
 			<h1 >SimVascular Supercomputing Gateway</h1>
 <!-- 			<p style="color:#cccccc;">
 				Supercomputing simplifies and boosts modeling simulation, helps to make better use of computational expertise and create manufacturing apps.<br/>
